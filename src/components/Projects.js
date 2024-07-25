@@ -23,7 +23,7 @@ const projects = [
   {
     title: 'Personal Website',
     description: 'Hi! You\'re here :)',
-    link: '#',
+    link: 'https://github.com/dilarabikmaz/personal-website',
     image: 'pers-web.png'
   },
 ];
